@@ -14,4 +14,4 @@ Reference : http://phrack.org/issues/59/8.html#article
 
 # .so injection(ptrace)
 
-Referenct : https://github.com/jmpews/evilELF/tree/17e141012faeebf707e3f9787dbbfb1d26bba3d3
+Reference : https://github.com/jmpews/evilELF/tree/17e141012faeebf707e3f9787dbbfb1d26bba3d3
